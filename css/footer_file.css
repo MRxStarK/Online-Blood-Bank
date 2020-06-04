@@ -1,0 +1,52 @@
+#footer-main-container
+{
+    background-color: grey;
+    
+    bottom: 0;
+    position: relative;
+    height: auto;
+    overflow: auto;
+    border: solid 2px black;
+    width: 100%;
+    padding: 30px;    
+}
+#right-container
+{
+    float: right;
+    text-align: center;
+    width: 50%;
+}
+a
+{
+    font-size: 20px;
+    text-decoration: none;
+    color: honeydew;
+}
+#left-container
+{
+    float: left;
+    text-align: center;
+    width: 50%;
+}
+.nav-member-f
+{
+    display: block;
+    padding: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.nav-member-f a:link
+{
+    color: greenyellow;
+}
+
+#follow-us
+{
+    float: left;
+}
+#follow-us-1
+{
+    float: right;
+    
+    display: block;
+}

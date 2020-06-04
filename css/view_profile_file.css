@@ -1,0 +1,55 @@
+#profile-container
+{
+    text-align: center;
+    padding-top: 6%;
+    padding-bottom: 6%;
+}
+a
+{
+    text-decoration: none;
+    color: darkred;
+    font-size: 20px;
+}
+table
+{
+    width: 100%;
+    padding: 4%;
+    margin: auto;
+    
+}
+#profile-container a
+{
+    color: crimson;
+}
+td
+{
+    width: 20%;
+    height: 20%;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: bold;
+}
+#request-user
+{
+    text-align: center;
+    margin: auto; 
+    width : 100%;
+}
+
+#req-btn
+{
+    
+    margin: auto; 
+    width : 85%;
+    background-color: rgba(48, 40, 40, 0.5);
+    height: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+#req-btn-float
+{
+    float: right;
+    font-size: 30px;
+}
